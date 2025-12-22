@@ -1,9 +1,9 @@
 ## Hi there, I'm Tiago Pinto 👋
 
-I'm a **Master's student in Software Engineering at @ISEP**, passionate about **software development, cybersecurity, and cloud technologies**.
+I'm a **Master's student in Software Engineering at ISEP**, passionate about **software development, cybersecurity, and cloud technologies**.
 
-🔹 Former Bachelor's student in Informatics and Computing Engineering @FEUP  
-🔹 I was member of the **Cyber Intelligence Department @ACMFEUP**  
+🔹 Former Bachelor's student in Informatics and Computing Engineering at FEUP  
+🔹 I was member of the **Cyber Intelligence Department at ACMFEUP**  
 🔹 Interested in **DevSecOps, networking, and secure software solutions**  
 🔹 Hands-on experience with **Docker, Azure, SQL Server, Python, C/C++, and full-stack development**
 
