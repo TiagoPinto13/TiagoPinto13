@@ -1,6 +1,6 @@
 ## Hi there, I'm Tiago Pinto 👋
 
-I'm a **Master's student in Computer Engineering @ISEP**, passionate about **software development, cybersecurity, and cloud technologies**.
+I'm a **Master's student in Software Engineering at @ISEP**, passionate about **software development, cybersecurity, and cloud technologies**.
 
 🔹 Former Bachelor's student in Informatics and Computing Engineering @FEUP  
 🔹 I was member of the **Cyber Intelligence Department @ACMFEUP**  
