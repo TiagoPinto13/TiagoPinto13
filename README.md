@@ -1,9 +1,13 @@
 ## Hi there, I'm Tiago Pinto 👋
 
-* Third year student of the Bachelor's Degree in Informatics and Computing Engineering, @FEUP 📚
-   
-* Artificial Intelligence Department, @acmfeup 📚
-* 
+I'm a **Master's student in Computer Engineering @ISEP**, passionate about **software development, cybersecurity, and cloud technologies**.
+
+🔹 Former Bachelor's student in Informatics and Computing Engineering @FEUP  
+🔹 I was member of the **Cyber Intelligence Department @ACMFEUP**  
+🔹 Interested in **DevSecOps, networking, and secure software solutions**  
+🔹 Hands-on experience with **Docker, Azure, SQL Server, Python, C/C++, and full-stack development**
+
+
 ## Github Stats and Work Tools 📊
   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoPinto13&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPinto13&layout=compact&theme=radical&langs_count=8)
 
